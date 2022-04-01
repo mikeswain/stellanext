@@ -1,8 +1,6 @@
-
-
 backend:
-  name: git-gateway
-  #name: test-repo
+  name: github
+  repo: mikeswain/stellanext
   branch: master # Branch to update (optional; defaults to master)
 media_folder: public/img
 public_folder: img
@@ -22,5 +20,5 @@ collections:
           widget: list
           fields:
             - { label: "Name", name: "name", widget: "string"}
-            - { label: "Cool", name: "cool", widget: "bool"}
+            - { label: "Cool", name: "name", widget: "bool"}
             - { label: "Description", name: "description", widget: "text"}
