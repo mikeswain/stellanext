@@ -20,5 +20,5 @@ collections:
           widget: list
           fields:
             - { label: "Name", name: "name", widget: "string"}
-            - { label: "Cool", name: "name", widget: "bool"}
+            - { label: "Cool", name: "cool", widget: "bool"}
             - { label: "Description", name: "description", widget: "text"}
