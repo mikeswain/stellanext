@@ -8,5 +8,7 @@ paintings:
     name: mikey
   - cool: false
     name: jenny
+  - name: another
+    description: jhgjhglglglglhglhglglhglg
 ---
 Mike is cool very ![](img/screenshot-from-2022-01-15-14-31-35.png)
