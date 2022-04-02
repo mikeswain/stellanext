@@ -9,8 +9,4 @@ paintings:
   - cool: false
     name: jenny
 ---
-Mike is cool
-
-
-
-![](img/screenshot-from-2022-01-15-14-31-35.png)
+Mike is cool very ![](img/screenshot-from-2022-01-15-14-31-35.png)
