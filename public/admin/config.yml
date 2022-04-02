@@ -1,23 +1,46 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
+local_backend: true
 media_folder: public/img
 public_folder: img
 collections:
   - name: "pages"
     label: "Pages"
     files:
-    - label: "Paintings"
+    - label: "Paintings Page"
       name: "paintings"
       file: "content/paintings.md"
       fields:
         - { label: "Title", name: "title", widget: "string"}
-        - { label: "Publish Date", name: "date", widget: "datetime" }
         - { label: "Body", name: "body", widget: "markdown"}
         - label: 'Paintings'
           name: "paintings"
           widget: list
           fields:
-            - { label: "Name", name: "name", widget: "string"}
-            - { label: "Cool", name: "cool", widget: "bool"}
-            - { label: "Description", name: "description", widget: "text"}
+            - { label: "Publish Date", name: "date", widget: "datetime" }
+            - { label: "Title", name: "title", widget: "string"}
+            - { label: "Image", name: "image", widget: "image"}
+            - { label: "Description", name: "description", widget: "markdown",required: false}
+            - { label: "Size", name: "size", widget: "string",required: false}
+            - { label: "Medium", name: "medium", widget: "string", required: false}
+            - { label: "Price", name: "price", widget: "number", required: false}
+            - label: "Categories"
+              name: "categories"
+              widget: "relation"
+              collection: "categories"
+              value_field: "slug"
+              display_fields: ["title"]
+              search_fields: ["title","slug"]
+              multiple: true
+    - name: "categories"
+      label: "Categories Page"
+      widget: list
+      file: "content/categories.md"
+      fields:
+        - label: 'Categories'
+          name: "categories"
+          widget: list
+          fields:
+            - { label: "Title", name: "title", widget: "string"}
+            - { label: "Slug", name: "slug", widget: "string"}
