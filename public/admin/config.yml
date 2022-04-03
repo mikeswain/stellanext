@@ -4,6 +4,10 @@ backend:
 local_backend: true
 media_folder: public/img
 public_folder: img
+media_library:
+  name: uploadcare
+  config:
+    publicKey: 996f1aebccfeb885bab9
 collections:
   - name: "pages"
     label: "Pages"
