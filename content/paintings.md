@@ -7,6 +7,15 @@ paintings:
       - wind
     image: https://ucarecdn.com/5b240564-e090-4ff6-a48b-3574b099b08e/
     title: title!!!!!!!!!!!!
+  - date: 2022-04-03T04:09:00.011Z
+    image: https://ucarecdn.com/cdd02124-b316-4a1a-b412-3dd48155f0f6/
+    description: bridge
+    size: big!
+    medium: oily
+    price: 2312
+    categories:
+      - water
+    title: Bridge to nowhere
 ---
 Mike is cool very 
 
