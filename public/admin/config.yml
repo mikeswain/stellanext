@@ -32,19 +32,22 @@ collections:
             - label: "Categories"
               name: "categories"
               widget: "relation"
-              collection: "categories"
-              value_field: "slug"
-              display_fields: ["title"]
-              search_fields: ["title","slug"]
+              collection: "relations"
+              value_field: "categories.*.slug"
+              display_fields: ["categories.*.title"]
+              search_fields: ["categories.*.title","categories.*.slug"]
               multiple: true
-    - name: "categories"
-      label: "Categories Page"
-      widget: list
-      file: "content/categories.md"
-      fields:
-        - label: 'Categories'
-          name: "categories"
-          widget: list
-          fields:
-            - { label: "Title", name: "title", widget: "string"}
-            - { label: "Slug", name: "slug", widget: "string"}
+              required: false
+  - name: "relations"
+    label: "Relations"
+    files:
+      - label: "Categories"
+        name: "categories"
+        file: "content/categories.md"
+        fields:
+          - label: 'Categories'
+            name: "categories"
+            widget: list
+            fields:
+              - { label: "Title", name: "title", widget: "string"}
+              - { label: "Slug", name: "slug", widget: "string"}

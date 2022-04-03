@@ -1,19 +1,17 @@
 import Link from "next/link";
-import { useEffect, useState } from "react";
-import { getStaticPaths } from "./painting/[id].js";
+import { attributes } from "../../content/categories.md";
 
 function HomePage() {
-  const paths = ["1", "2"];
+  const { categories } = attributes;
   return (
     <ol>
-      {paths &&
-        paths.map((id, i) => (
-          <li key={i}>
-            <Link href={`/painting/${id}`}>
-              <a>Painting {id}</a>
-            </Link>
-          </li>
-        ))}
+      {(categories || []).map(({slug}, i) => (
+        <li key={i}>
+          <Link href={`/painting/${id}`}>
+            <a>Painting {id}</a>
+          </Link>
+        </li>
+      ))}
     </ol>
   );
 }
