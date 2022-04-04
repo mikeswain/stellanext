@@ -11,6 +11,28 @@ media_library:
   settings:
     autoFilename: true # uploadcare crashes with not extension
 collections:
+  - name: "paintings"
+    label: "Paintings"
+    label_singular: "Painting"
+    folder: "content/paintings" 
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string"}
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Image", name: "image", widget: "image",defaultOperations: "-/smart_resize/800x800/"}
+      - { label: "Description", name: "description", widget: "markdown",required: false}
+      - { label: "Size", name: "size", widget: "string",required: false}
+      - { label: "Medium", name: "medium", widget: "string", required: false}
+      - { label: "Price", name: "price", widget: "number", required: false}
+      - label: "Categories"
+        name: "categories"
+        widget: "relation"
+        collection: "relations"
+        value_field: "categories.*.slug"
+        display_fields: ["categories.*.title"]
+        search_fields: ["categories.*.title","categories.*.slug"]
+        multiple: true
+        required: false
   - name: "pages"
     label: "Pages"
     files:
@@ -18,15 +40,14 @@ collections:
       name: "paintings"
       file: "content/paintings.md"
       fields:
-        - { label: "Title", name: "title", widget: "string"}
-        - { label: "Body", name: "body", widget: "markdown"}
         - label: 'Paintings'
           name: "paintings"
           widget: list
+          summary: "{{fields.title}}"
           fields:
             - { label: "Publish Date", name: "date", widget: "datetime" }
             - { label: "Title", name: "title", widget: "string"}
-            - { label: "Image", name: "image", widget: "image"}
+            - { label: "Image", name: "image", widget: "image",defaultOperations: "-/smart_resize/800x800/"}
             - { label: "Description", name: "description", widget: "markdown",required: false}
             - { label: "Size", name: "size", widget: "string",required: false}
             - { label: "Medium", name: "medium", widget: "string", required: false}
