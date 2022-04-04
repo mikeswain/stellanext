@@ -10,7 +10,7 @@ const nextConfig = {
     return cfg;
   },
   images: {
-    domains: ["ucarecdn.com"]
+    loader: "custom"
   }
 };
 

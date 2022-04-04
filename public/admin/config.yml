@@ -8,6 +8,8 @@ media_library:
   name: uploadcare
   config:
     publicKey: 996f1aebccfeb885bab9
+  settings:
+    autoFilename: true # uploadcare crashes with not extension
 collections:
   - name: "pages"
     label: "Pages"

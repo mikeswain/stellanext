@@ -465,6 +465,11 @@
     "@typescript-eslint/types" "5.10.1"
     eslint-visitor-keys "^3.0.0"
 
+"@uploadcare/nextjs-loader@^0.3.2":
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/@uploadcare/nextjs-loader/-/nextjs-loader-0.3.2.tgz#bf723837a8698d9e34c3738c547516ac0cb27e05"
+  integrity sha512-eN2Dvw3R4r95PYnnx4/NJ26KB/ACnR/QiPN6Lc1B/0mdMNIW49dMG/C4gUBGvZfJ1evkBuq66V0tOFVUg4Oejw==
+
 acorn-jsx@^5.3.1:
   version "5.3.2"
   resolved "https://registry.yarnpkg.com/acorn-jsx/-/acorn-jsx-5.3.2.tgz#7ed5bb55908b3b2f1bc55c6af1653bada7f07937"
