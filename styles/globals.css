@@ -16,29 +16,3 @@ a {
 * {
   box-sizing: border-box;
 }
-
-.each-slide {
-  display: flex;
-  width: 100%;
-}
-
-.each-slide > div {
-  width: 75%;
-}
-
-.each-slide > div img {
-  width: 100%;
-  object-fit: contain;
-}
-
-.each-slide p {
-  width: 25%;
-  font-size: 1em;
-  display: flex;
-  text-align: center;
-  justify-content: center;
-  align-items: center;
-  margin: 0;
-  background: #adceed;
-}
-

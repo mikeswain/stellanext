@@ -8,6 +8,9 @@ const nextConfig = {
       options: { mode: ["react-component"], sourcemaps: "development" }
     });
     return cfg;
+  },
+  images: {
+    domains: ["ucarecdn.com"]
   }
 };
 
