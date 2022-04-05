@@ -8,21 +8,23 @@ import { useEffect } from "react";
 
 export default function Paintings({ paintings: paintingSlugs }) {
   const router = useRouter();
+  const { category } = router.query;
   const [paintings, setPaintings] = useState();
   useEffect(() => {
     (async () => {
-      const allPaintings = await Promise.all(paintingSlugs.map((slug) => import(`/content/paintings/${slug}.md`)));
-      setPaintings(allPaintings.map(({ attributes }) => attributes));
+      const allPaintings = (await Promise.all(paintingSlugs.map((slug) => import(`/content/paintings/${slug}.md`)))).map(
+        ({ attributes }) => attributes
+      );
+      setPaintings(
+        !category ? allPaintings : allPaintings.filter(({ categories }) => !!(categories || []).find((slug) => slug === category))
+      );
     })();
-  });
-  const { category } = router.query;
-  const slideImages =
-    paintings &&
-    (category ? paintings : paintings.filter(({ categories }) => !category || !!categories.find(({ slug }) => slug == category)));
+  }, [category, paintingSlugs]);
+
   return (
-    slideImages && (
+    paintings && (
       <Carousel showThumbs={false} centerMode>
-        {slideImages.map(({ image, title, price, size, medium, categories }, index) => (
+        {paintings.map(({ image, title, price, size, medium, categories }, index) => (
           <div className="each-slide" key={index}>
             <p>
               <span>{title}</span>
