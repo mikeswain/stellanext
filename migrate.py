@@ -17,7 +17,7 @@ with open('/tmp/paint-slug.csv', newline='') as csvfile:
             print(f"""---
 title: "{title}"
 date: {datetime.datetime.now()}
-image: https://ucarecdn.com/{imagesBySlug[slug]}/{slug}.jpg
+image: https://ucarecdn.com/{imagesBySlug[slug]}/
 price: "{price}"
 size: "{size}"
 sold: "{sold}"

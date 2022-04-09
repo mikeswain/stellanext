@@ -20,7 +20,24 @@ export default function Paintings({ paintings: paintingSlugs }) {
     })();
   }, [category, paintingSlugs]);
 
-  return <div>{paintings && <ImageGallery items={paintings.map(({ image }) => ({ original: image }))} />}</div>;
+  return (
+    <div>
+      {paintings && (
+        <ImageGallery
+          showIndex
+          thumbnailPosition="left"
+          lazyLoad
+          loading="lazy"
+          items={paintings.map(({ image, title }) => ({
+            original: image,
+            thumbnail: `${image}/-/preview/100x100`,
+            originalTitle: title,
+            thumbnailTitle: title
+          }))}
+        />
+      )}
+    </div>
+  );
 }
 
 export async function getStaticProps() {

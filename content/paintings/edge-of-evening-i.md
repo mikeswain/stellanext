@@ -1,7 +1,7 @@
 ---
 title: "Edge of Evening I"
-date: 2022-04-09 11:03:41.468838
-image: https://ucarecdn.com/a2759f8f-95e5-4eeb-bc10-4c98ebbc2f43/edge-of-evening-i.jpg
+date: 2022-04-09 13:18:38.496921
+image: https://ucarecdn.com/a2759f8f-95e5-4eeb-bc10-4c98ebbc2f43/
 price: "290"
 size: "20 x 25"
 sold: "Sold"
