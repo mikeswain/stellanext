@@ -4,15 +4,10 @@ import json
 import functools
 import re
 
-with open('images.json') as imf:
-    images = json.load(imf)
 
-imagesBySlug = functools.reduce(lambda a, v: a.update({re.sub("\..+$","",v['original_filename']):v['uuid']}) or a, images['results'],{})
-
-
-with open('paintings-slug.csv', newline='') as csvfile:
+with open('cats.csv', newline='') as csvfile:
     reader = csv.reader(csvfile, delimiter=',', quotechar='"')
-    for (title,fn,price,sold,media,size,_,slug) in reader:
+    for (slug,catSlig,cat) in reader:
         with open(f"./content/paintings/{slug}.md","w") as md:
             print(f"""---
 title: "{title}"
