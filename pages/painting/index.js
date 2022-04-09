@@ -1,10 +1,9 @@
 import { useRouter } from "next/router";
 import { useState } from "react";
-import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
-import { Carousel } from "react-responsive-carousel";
-import UploadcareImage from "@uploadcare/nextjs-loader";
 import { readdir } from "fs/promises";
 import { useEffect } from "react";
+import ImageGallery from "react-image-gallery";
+import "react-image-gallery/styles/css/image-gallery.css";
 
 export default function Paintings({ paintings: paintingSlugs }) {
   const router = useRouter();
@@ -21,20 +20,7 @@ export default function Paintings({ paintings: paintingSlugs }) {
     })();
   }, [category, paintingSlugs]);
 
-  return (
-    paintings && (
-      <Carousel showThumbs={false} centerMode>
-        {paintings.map(({ image, title, price, size, medium, categories }, index) => (
-          <div className="each-slide" key={index}>
-            <p>
-              <span>{title}</span>
-            </p>
-            <UploadcareImage src={image} alt={title} width={"500"} height={"500"} />
-          </div>
-        ))}
-      </Carousel>
-    )
-  );
+  return <div>{paintings && <ImageGallery items={paintings.map(({ image }) => ({ original: image }))} />}</div>;
 }
 
 export async function getStaticProps() {

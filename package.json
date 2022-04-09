@@ -14,7 +14,7 @@
     "next": "12.1.2",
     "react": "18.0.0",
     "react-dom": "18.0.0",
-    "react-responsive-carousel": "^3.2.23",
+    "react-image-gallery": "1.2.7",
     "uploadcare-widget": "^3.17.1",
     "uploadcare-widget-tab-effects": "^1.5.0"
   },
