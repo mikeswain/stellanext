@@ -1,0 +1,18 @@
+
+.titleBar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    padding: 1rem;
+    border-bottom: solid 1px;
+}
+
+.title {
+    font-size: 3rem;
+}
+
+.icon {
+    height: 7rem;
+    object-fit: contain;
+}

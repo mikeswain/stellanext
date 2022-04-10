@@ -28,6 +28,7 @@ export default function Paintings({ paintings: paintingSlugs }) {
           thumbnailPosition="left"
           lazyLoad
           loading="lazy"
+          
           items={paintings.map(({ image, title }) => ({
             original: image,
             thumbnail: `${image}/-/preview/100x100`,

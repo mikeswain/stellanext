@@ -9,9 +9,7 @@ const nextConfig = {
     });
     return cfg;
   },
-  images: {
-    loader: "custom"
-  }
+  images: {}
 };
 
 module.exports = nextConfig;
