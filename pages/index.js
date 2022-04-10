@@ -5,10 +5,10 @@ function HomePage() {
   const { categories } = attributes;
   return (
     <ol>
-      {(categories || []).map(({ slug }, i) => (
+      {(categories || []).map(({ slug, title }, i) => (
         <li key={i}>
           <Link href={`/painting?category=${slug}`}>
-            <a>{slug}</a>
+            <a>{title}</a>
           </Link>
         </li>
       ))}

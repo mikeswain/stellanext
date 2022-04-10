@@ -1,10 +1,11 @@
 ---
-title: "Watching the Water Down Below"
+categories:
+- ocean-island-shore
 date: 2022-04-09 13:18:38.527039
 image: https://ucarecdn.com/efa8081a-2627-46ac-9ea2-dd8876b2421c/
-price: "350"
-size: "20 x 25cm"
-sold: "Contact Us"
-media: "acrylic on canvas"
----
-
+media: acrylic on canvas
+price: '350'
+size: 20 x 25cm
+sold: Contact Us
+title: Watching the Water Down Below
+...
