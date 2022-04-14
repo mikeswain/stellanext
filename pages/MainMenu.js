@@ -1,3 +1,4 @@
+import { readdir } from "fs/promises";
 import Link from "next/link";
 import styles from "./MainMenu.module.css";
 
@@ -15,11 +16,10 @@ export default function MainMenu({ pages }) {
 }
 
 export async function getStaticProps() {
+  const { readdir } = import("fs/promises");
   const dir = await readdir("./content/pages");
-  const pages = await Promise.all(dir.map((md) => import(md)));
+  const pages = await Promise.all(pageSlugs.map((slug) => import(`/content/pages/${slug}.md`)));
   return {
-    props: {
-      pages: md.filter(({ attributes: { enabled } }) => enabled).map(({ attributes: { title, slug } }) => ({ slug, title }))
-    }
+    props: { pages }
   };
 }

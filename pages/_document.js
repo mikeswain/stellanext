@@ -1,6 +1,7 @@
 // pages/_document.js
 
 import { Html, Head, Main, NextScript } from "next/document";
+import AppContext from "../components/AppContext";
 
 export default function Document() {
   return (
@@ -11,7 +12,9 @@ export default function Document() {
         <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap" rel="stylesheet" />
       </Head>
       <body>
-        <Main />
+        <AppContext.Provider>
+          <Main />
+        </AppContext.Provider>
         <NextScript />
       </body>
     </Html>

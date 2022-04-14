@@ -1,7 +1,6 @@
-import { useRouter } from "next/router";
-import { useState } from "react";
 import { readdir } from "fs/promises";
-import { useEffect } from "react";
+import { useRouter } from "next/router";
+import { useEffect, useState } from "react";
 import ImageGallery from "react-image-gallery";
 import "react-image-gallery/styles/css/image-gallery.css";
 
@@ -28,7 +27,6 @@ export default function Paintings({ paintings: paintingSlugs }) {
           thumbnailPosition="left"
           lazyLoad
           loading="lazy"
-          
           items={paintings.map(({ image, title }) => ({
             original: image,
             thumbnail: `${image}/-/preview/100x100`,
