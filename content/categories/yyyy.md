@@ -1,4 +1,0 @@
----
-title: yyyy
-slug: yyy
----
