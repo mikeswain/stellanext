@@ -1,0 +1,4 @@
+---
+slug: funfair
+title: funfair
+...

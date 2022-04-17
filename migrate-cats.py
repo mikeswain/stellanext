@@ -24,5 +24,6 @@ with open('cats.csv', newline='') as csvfile:
                     yaml.dump_all(out,md,default_flow_style=False,explicit_start=True,explicit_end=True)
             except IOError as e:
                 print( f"ignoring {slug}: {e}" )
-with open(f"./content/categories.md","w") as md:
-    yaml.dump_all([{"categories":[ { "title":title, "slug":slug} for (slug,title) in newCats.items()]}],md,explicit_start=True,explicit_end=True)
+for (slug,title) in newCats.items():
+    with open(f"./content/categories/{slug}.md","w") as md:
+        yaml.dump_all([{ "title":title, "slug":slug}],md,explicit_start=True,explicit_end=True)

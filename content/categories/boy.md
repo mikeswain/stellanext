@@ -1,0 +1,4 @@
+---
+slug: boy
+title: boy
+...

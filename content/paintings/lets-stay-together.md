@@ -1,6 +1,7 @@
 ---
 categories:
 - archive
+- archive
 date: 2022-04-09 13:18:38.477044
 image: https://ucarecdn.com/71d42fc3-de31-4c56-99ac-ed3927abcdc7/
 media: Acrylic on canvas

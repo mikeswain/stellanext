@@ -1,6 +1,7 @@
 ---
 categories:
 - the-art-of-nostalgia
+- the-art-of-nostalgia
 date: 2022-04-09 13:18:38.499603
 image: https://ucarecdn.com/7460842d-a250-4469-80df-195e32900fdc/
 media: Acrylic on Canvas
