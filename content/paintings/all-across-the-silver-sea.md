@@ -1,6 +1,7 @@
 ---
 categories:
 - ocean-island-shore
+- ocean-island-shore
 date: 2022-04-09 13:18:38.472411
 image: https://ucarecdn.com/7f77db0e-4037-4db2-aac3-335a859aed3f/
 media: Acrylic on Canvas

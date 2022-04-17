@@ -1,6 +1,7 @@
 ---
 categories:
 - water-and-gold
+- water-and-gold
 date: 2022-04-09 13:18:38.519002
 image: https://ucarecdn.com/2326968e-7e7d-4027-8e72-0663cf3c7660/
 media: Oil on Canvas
