@@ -3,8 +3,19 @@ import Header from "../components/Header";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 
-function HomePage() {
-  const categories = [];
+function HomePage({
+  data: {
+    allMarkdownRemark: { edges }
+  }
+}) {
+  const categories = edges.map(
+    ({
+      node: {
+        frontmatter: { title },
+        fields: { slug }
+      }
+    }) => ({ slug, title })
+  );
   return (
     <Layout>
       <ol>
@@ -23,10 +34,17 @@ function HomePage() {
 export default HomePage;
 
 export const query = graphql`
-  query HomePageQuery {
-    site {
-      siteMetadata {
-        title
+  query IndexQuery {
+    allMarkdownRemark(filter: { fields: { collection: { eq: "categories" } }, frontmatter: {} }) {
+      edges {
+        node {
+          frontmatter {
+            title
+          }
+          fields {
+            slug
+          }
+        }
       }
     }
   }

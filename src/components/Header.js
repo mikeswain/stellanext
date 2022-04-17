@@ -2,6 +2,7 @@ import * as styles from "./Header.module.css";
 import MainMenu from "./MainMenu";
 import { useStaticQuery, graphql } from "gatsby";
 import React from "react";
+import CategoryMenu from "./CategoryMenu";
 export default function Header() {
   const {
     site: {
@@ -23,6 +24,7 @@ export default function Header() {
         <span className={styles.title}>{title}</span>
       </div>
       <MainMenu />
+      <CategoryMenu />
     </header>
   );
 }

@@ -17,6 +17,7 @@
     "gatsby-plugin-netlify-cms": "^6.12.1",
     "gatsby-plugin-react-helmet": "^5.12.1",
     "gatsby-plugin-sitemap": "^5.12.1",
+    "gatsby-plugin-use-query-params": "^1.0.1",
     "gatsby-source-filesystem": "^4.12.1",
     "netlify-cms-app": "^2.15.72",
     "netlify-cms-media-library-uploadcare": "^0.5.10",
@@ -25,7 +26,8 @@
     "react-helmet": "^6.1.0",
     "react-image-gallery": "1.2.7",
     "uploadcare-widget": "^3.17.1",
-    "uploadcare-widget-tab-effects": "^1.5.0"
+    "uploadcare-widget-tab-effects": "^1.5.0",
+    "use-query-params": "^1.2.3"
   },
   "devDependencies": {}
 }
