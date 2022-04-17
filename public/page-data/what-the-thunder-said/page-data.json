@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/what-the-thunder-said/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"What the Thunder Said"}}},"pageContext":{"id":"ae92a3ec-c067-5179-8f52-40f9314ed55d","fields__slug":"what-the-thunder-said","__params":{"fields__slug":"what-the-thunder-said"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

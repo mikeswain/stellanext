@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/watching-the-water-down-below/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Watching the Water Down Below"}}},"pageContext":{"id":"c4c36b6f-dd91-537a-a9e3-a2c9d1cd319d","fields__slug":"watching-the-water-down-below","__params":{"fields__slug":"watching-the-water-down-below"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

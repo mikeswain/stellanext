@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/silent-shore/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Silent Shore"}}},"pageContext":{"id":"9da7a5f5-33dc-59cd-898c-31912750fa8f","fields__slug":"silent-shore","__params":{"fields__slug":"silent-shore"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/the-upwell/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"The Upwell"}}},"pageContext":{"id":"0890b467-d22d-582f-a6f4-d2ff79aeaa9a","fields__slug":"the-upwell","__params":{"fields__slug":"the-upwell"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

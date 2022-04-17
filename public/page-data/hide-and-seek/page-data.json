@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/hide-and-seek/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Hide and Seek"}}},"pageContext":{"id":"8ac2557c-c7ef-56b2-8d57-fe3f86fe5578","fields__slug":"hide-and-seek","__params":{"fields__slug":"hide-and-seek"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/three-white-birds-at-evening/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Three White Birds at Evening"}}},"pageContext":{"id":"486f3cee-f501-5fcd-bf07-76e76f322308","fields__slug":"three-white-birds-at-evening","__params":{"fields__slug":"three-white-birds-at-evening"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

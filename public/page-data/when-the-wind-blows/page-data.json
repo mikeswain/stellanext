@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/when-the-wind-blows/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"When the Wind Blows"}}},"pageContext":{"id":"71db670e-23ef-5a69-85b9-5131942ed713","fields__slug":"when-the-wind-blows","__params":{"fields__slug":"when-the-wind-blows"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

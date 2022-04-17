@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/attrition-i/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Attrition I"}}},"pageContext":{"id":"b8021921-2ce5-55f3-ac2c-971a6c7da70d","fields__slug":"attrition-i","__params":{"fields__slug":"attrition-i"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

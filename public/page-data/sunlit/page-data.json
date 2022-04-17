@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/sunlit/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Sunlit"}}},"pageContext":{"id":"95f4f491-4fff-5357-8c9c-b3fd9fe9285d","fields__slug":"sunlit","__params":{"fields__slug":"sunlit"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

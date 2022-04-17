@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/half-moon-bay/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Half Moon Bay"}}},"pageContext":{"id":"34f80cc2-a969-5933-8e0f-bbab31aabaf7","fields__slug":"half-moon-bay","__params":{"fields__slug":"half-moon-bay"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

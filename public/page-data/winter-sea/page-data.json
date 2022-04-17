@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/winter-sea/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Winter Sea"}}},"pageContext":{"id":"90c0cc43-6603-5fa4-9dab-6cca55d17bf8","fields__slug":"winter-sea","__params":{"fields__slug":"winter-sea"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/radiance/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Radiance, After the Storm"}}},"pageContext":{"id":"6906cfef-bfa8-5c0c-a40e-c0709481a015","fields__slug":"radiance","__params":{"fields__slug":"radiance"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

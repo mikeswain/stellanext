@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/edge-of-evening-i/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Edge of Evening I"}}},"pageContext":{"id":"fa0b6fc3-658b-5884-8285-f9f9e45d06e8","fields__slug":"edge-of-evening-i","__params":{"fields__slug":"edge-of-evening-i"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

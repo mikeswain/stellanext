@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/posted/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"'Posted'"}}},"pageContext":{"id":"91ed1213-6e6f-5ec8-be50-fb4c02b5d783","fields__slug":"posted","__params":{"fields__slug":"posted"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

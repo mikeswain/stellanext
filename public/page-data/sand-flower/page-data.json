@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/sand-flower/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Sand Flower"}}},"pageContext":{"id":"1ccf868c-fd3f-5c79-ae00-73c211fd9469","fields__slug":"sand-flower","__params":{"fields__slug":"sand-flower"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

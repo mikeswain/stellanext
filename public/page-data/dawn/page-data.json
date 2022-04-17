@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/dawn/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"dawn"}}},"pageContext":{"id":"978fc10c-18db-5b3d-ac42-c52240e2fc05","fields__slug":"dawn","__params":{"fields__slug":"dawn"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

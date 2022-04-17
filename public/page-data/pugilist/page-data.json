@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/pugilist/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Pugilist"}}},"pageContext":{"id":"275ab4b1-204a-514a-adb0-7ff716d5fc4d","fields__slug":"pugilist","__params":{"fields__slug":"pugilist"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

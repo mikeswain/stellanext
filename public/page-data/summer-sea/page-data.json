@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/summer-sea/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Summer Sea, With headland"}}},"pageContext":{"id":"5443ff64-0393-5b08-bd69-44f0b780b278","fields__slug":"summer-sea","__params":{"fields__slug":"summer-sea"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

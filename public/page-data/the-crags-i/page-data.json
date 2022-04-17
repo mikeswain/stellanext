@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/the-crags-i/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"The Crags I"}}},"pageContext":{"id":"1f846b42-4cf4-5661-9026-ad5f8a94c168","fields__slug":"the-crags-i","__params":{"fields__slug":"the-crags-i"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

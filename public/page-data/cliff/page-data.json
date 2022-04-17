@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/cliff/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Cliff"}}},"pageContext":{"id":"7399b1fc-4635-5cae-bd3b-4b1c1f239def","fields__slug":"cliff","__params":{"fields__slug":"cliff"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

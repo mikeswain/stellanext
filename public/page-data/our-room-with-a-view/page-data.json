@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/our-room-with-a-view/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Our Room With a View"}}},"pageContext":{"id":"e1ad42f1-3477-5b56-9027-a07ec331f4fc","fields__slug":"our-room-with-a-view","__params":{"fields__slug":"our-room-with-a-view"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

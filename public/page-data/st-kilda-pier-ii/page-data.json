@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/st-kilda-pier-ii/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"St. Kilda Pier II"}}},"pageContext":{"id":"3f22475e-693f-5f6c-b572-cbfc0dfd2e0c","fields__slug":"st-kilda-pier-ii","__params":{"fields__slug":"st-kilda-pier-ii"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

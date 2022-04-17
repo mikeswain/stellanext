@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/ocean-story/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Ocean Story"}}},"pageContext":{"id":"9c0938e1-a745-5869-99dd-7925a72e627e","fields__slug":"ocean-story","__params":{"fields__slug":"ocean-story"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

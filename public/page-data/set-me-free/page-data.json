@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/set-me-free/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Set Me Free"}}},"pageContext":{"id":"b7eadd7c-92f8-5892-9f54-6a68fbce496f","fields__slug":"set-me-free","__params":{"fields__slug":"set-me-free"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

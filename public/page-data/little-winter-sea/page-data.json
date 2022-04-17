@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/little-winter-sea/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Little Winter Sea"}}},"pageContext":{"id":"39d38d3b-56f5-50b2-9a27-ad74c1883e41","fields__slug":"little-winter-sea","__params":{"fields__slug":"little-winter-sea"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

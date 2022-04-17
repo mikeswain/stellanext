@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/city-from-bayside/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"City from Bayside"}}},"pageContext":{"id":"0b862e1d-8a7a-5975-84f6-28e24de985d2","fields__slug":"city-from-bayside","__params":{"fields__slug":"city-from-bayside"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

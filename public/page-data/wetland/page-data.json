@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/wetland/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Wetland, Floating Flowers I"}}},"pageContext":{"id":"76452d9c-7032-5e6f-9736-d2b23c3e736b","fields__slug":"wetland","__params":{"fields__slug":"wetland"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

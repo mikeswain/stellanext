@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/island-home-i/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"ISLAND HOME I"}}},"pageContext":{"id":"0b125ba1-58dd-5b89-8544-240d3688d147","fields__slug":"island-home-i","__params":{"fields__slug":"island-home-i"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

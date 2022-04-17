@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/jetty-i/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Jetty I"}}},"pageContext":{"id":"abdb815a-b3f6-55f9-b5c3-cb3309212c2d","fields__slug":"jetty-i","__params":{"fields__slug":"jetty-i"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

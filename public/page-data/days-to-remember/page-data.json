@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/days-to-remember/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Days to Remember"}}},"pageContext":{"id":"20d42c27-3ec5-5dad-ae8b-9e817a3dbed2","fields__slug":"days-to-remember","__params":{"fields__slug":"days-to-remember"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

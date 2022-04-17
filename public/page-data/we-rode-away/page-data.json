@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/we-rode-away/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"We Rode Away"}}},"pageContext":{"id":"23b5e96e-289d-5ae9-9190-3e4bd006de28","fields__slug":"we-rode-away","__params":{"fields__slug":"we-rode-away"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

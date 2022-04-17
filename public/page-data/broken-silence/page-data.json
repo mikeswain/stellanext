@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/broken-silence/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Broken Silence"}}},"pageContext":{"id":"5a62df29-35ee-5862-ae89-5e67029c8f87","fields__slug":"broken-silence","__params":{"fields__slug":"broken-silence"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

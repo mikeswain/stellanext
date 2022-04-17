@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/the-morning-caught-in-water/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"The Morning Caught in Water"}}},"pageContext":{"id":"9a0ecd46-6ad4-5dfb-bb82-67d5b06e0c22","fields__slug":"the-morning-caught-in-water","__params":{"fields__slug":"the-morning-caught-in-water"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

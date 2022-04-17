@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/blue-day/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Blue Day"}}},"pageContext":{"id":"1f6b37b5-6186-587b-8ed7-3d6f7bfe8891","fields__slug":"blue-day","__params":{"fields__slug":"blue-day"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

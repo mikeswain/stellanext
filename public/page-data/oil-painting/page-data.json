@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/oil-painting/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":null,"title":"oil painting"}}},"pageContext":{"id":"6212b2da-cd0e-5737-a277-c49a2c69d40f","fields__slug":"oil-painting","__params":{"fields__slug":"oil-painting"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/under-another-sky/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Under Another Sky"}}},"pageContext":{"id":"648510e7-ab2f-5d77-83c8-ff50d2f8e554","fields__slug":"under-another-sky","__params":{"fields__slug":"under-another-sky"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

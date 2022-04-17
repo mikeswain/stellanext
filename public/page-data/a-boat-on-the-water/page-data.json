@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/a-boat-on-the-water/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"a boat on the water, as a seabird flies"}}},"pageContext":{"id":"bb4c06df-40d1-5e89-846a-3a4bd2aeed5c","fields__slug":"a-boat-on-the-water","__params":{"fields__slug":"a-boat-on-the-water"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

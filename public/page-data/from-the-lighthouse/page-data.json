@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/from-the-lighthouse/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"From the lighthouse"}}},"pageContext":{"id":"52672ea3-620a-50df-8d33-23f8366fa811","fields__slug":"from-the-lighthouse","__params":{"fields__slug":"from-the-lighthouse"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

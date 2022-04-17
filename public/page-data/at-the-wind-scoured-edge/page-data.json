@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/at-the-wind-scoured-edge/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"at the wind-scoured edge"}}},"pageContext":{"id":"f694280d-de99-56c3-912b-41b0873cd91c","fields__slug":"at-the-wind-scoured-edge","__params":{"fields__slug":"at-the-wind-scoured-edge"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

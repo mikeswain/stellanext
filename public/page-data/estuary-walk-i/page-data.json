@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/estuary-walk-i/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Estuary Walk I"}}},"pageContext":{"id":"7dd1efdf-7d3d-5497-8666-d31872621960","fields__slug":"estuary-walk-i","__params":{"fields__slug":"estuary-walk-i"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

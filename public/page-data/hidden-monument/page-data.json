@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/hidden-monument/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Hidden Monument"}}},"pageContext":{"id":"b9eab808-2174-51aa-9a60-0dd3f782d1dd","fields__slug":"hidden-monument","__params":{"fields__slug":"hidden-monument"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

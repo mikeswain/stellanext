@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/seaside-rock/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Seaside Rock"}}},"pageContext":{"id":"a4538007-3454-583a-940c-40065d371dce","fields__slug":"seaside-rock","__params":{"fields__slug":"seaside-rock"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

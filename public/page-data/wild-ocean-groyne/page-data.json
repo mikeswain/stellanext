@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/wild-ocean-groyne/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Wild Ocean Groyne"}}},"pageContext":{"id":"4b7292b8-7e65-55df-9ff6-73906b4de978","fields__slug":"wild-ocean-groyne","__params":{"fields__slug":"wild-ocean-groyne"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

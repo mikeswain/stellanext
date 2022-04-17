@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/after-rain/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"After Rain"}}},"pageContext":{"id":"3ffb1ee1-153c-5f36-876b-b48736191ba2","fields__slug":"after-rain","__params":{"fields__slug":"after-rain"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

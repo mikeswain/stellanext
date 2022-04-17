@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/little-lakeside-tree/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Little lakeside tree"}}},"pageContext":{"id":"71faa4e1-40fc-5470-866f-e92429ad97cd","fields__slug":"little-lakeside-tree","__params":{"fields__slug":"little-lakeside-tree"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

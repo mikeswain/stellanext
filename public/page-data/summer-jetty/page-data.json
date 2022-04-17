@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/summer-jetty/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Summer Jetty"}}},"pageContext":{"id":"f77b5da4-b20d-5ed2-a0da-e5cddc7a45b7","fields__slug":"summer-jetty","__params":{"fields__slug":"summer-jetty"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

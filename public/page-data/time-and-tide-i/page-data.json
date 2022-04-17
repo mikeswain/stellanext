@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/time-and-tide-i/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Time and Tide I"}}},"pageContext":{"id":"dab9e249-9c8d-55ed-be4d-1f5cf14e0f05","fields__slug":"time-and-tide-i","__params":{"fields__slug":"time-and-tide-i"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

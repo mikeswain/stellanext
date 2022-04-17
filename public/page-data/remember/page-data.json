@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/remember/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Remember "}}},"pageContext":{"id":"0fa66614-d4ae-5875-bc27-ce6d40dd0a79","fields__slug":"remember","__params":{"fields__slug":"remember"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

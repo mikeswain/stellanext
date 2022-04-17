@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/drift-i/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Drift I"}}},"pageContext":{"id":"b3147a5c-20d9-553a-b56b-01492debd93e","fields__slug":"drift-i","__params":{"fields__slug":"drift-i"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/red-dress/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Red Dress"}}},"pageContext":{"id":"3e0c6ba8-6dc3-56b4-81eb-2f22609b7da9","fields__slug":"red-dress","__params":{"fields__slug":"red-dress"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

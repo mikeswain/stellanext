@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/tread-softly/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Tread Softly"}}},"pageContext":{"id":"a9f1389d-e7d9-552e-b2b4-01f0e9ecbd36","fields__slug":"tread-softly","__params":{"fields__slug":"tread-softly"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/sea-bath/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Sea Bath"}}},"pageContext":{"id":"33b3cce5-019b-577c-91f2-30c8ffbc978f","fields__slug":"sea-bath","__params":{"fields__slug":"sea-bath"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

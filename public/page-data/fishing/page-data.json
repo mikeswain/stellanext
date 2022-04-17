@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/fishing/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Fishing"}}},"pageContext":{"id":"a01798f9-a6aa-53e9-8253-48af84cec54b","fields__slug":"fishing","__params":{"fields__slug":"fishing"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

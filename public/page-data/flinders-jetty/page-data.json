@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/flinders-jetty/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Flinders Jetty"}}},"pageContext":{"id":"fd164d31-d0e7-5306-a8d2-6616d85fbb71","fields__slug":"flinders-jetty","__params":{"fields__slug":"flinders-jetty"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/spring/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Spring"}}},"pageContext":{"id":"acadc919-55d7-5082-b82b-ba0a030c371f","fields__slug":"spring","__params":{"fields__slug":"spring"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

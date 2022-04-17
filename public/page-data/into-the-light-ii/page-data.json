@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/into-the-light-ii/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Into the Light II"}}},"pageContext":{"id":"36ac0f31-da21-548c-bdf4-43da1c4f8fde","fields__slug":"into-the-light-ii","__params":{"fields__slug":"into-the-light-ii"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

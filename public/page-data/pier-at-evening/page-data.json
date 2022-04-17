@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/pier-at-evening/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Pier At Evening"}}},"pageContext":{"id":"ae2aea96-e341-5d6f-be73-e2f2a55f49ba","fields__slug":"pier-at-evening","__params":{"fields__slug":"pier-at-evening"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/ricketts-point/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Ricketts Point"}}},"pageContext":{"id":"119d712f-af46-5283-82cf-afd3fff97d8f","fields__slug":"ricketts-point","__params":{"fields__slug":"ricketts-point"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

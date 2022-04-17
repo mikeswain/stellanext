@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/wild/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Wild"}}},"pageContext":{"id":"0ff7f94a-4802-56ad-92b0-242b7e2c4b40","fields__slug":"wild","__params":{"fields__slug":"wild"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/cafe-i-girl-in-red/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Cafe I: Girl in Red"}}},"pageContext":{"id":"c363fad0-8f9c-57ad-8d63-31406eec772e","fields__slug":"cafe-i-girl-in-red","__params":{"fields__slug":"cafe-i-girl-in-red"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

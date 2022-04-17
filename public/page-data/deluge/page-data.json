@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/deluge/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Deluge"}}},"pageContext":{"id":"e220fc4c-440c-5b27-83ad-b8fabfd19be3","fields__slug":"deluge","__params":{"fields__slug":"deluge"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

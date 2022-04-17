@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/westerly/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Westerly"}}},"pageContext":{"id":"797bb96a-2d4d-5e60-974c-aaed5018a2c4","fields__slug":"westerly","__params":{"fields__slug":"westerly"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

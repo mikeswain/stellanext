@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/light-falling/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Light Falling"}}},"pageContext":{"id":"a5a28d54-fa63-50e3-9459-65e1664f3a82","fields__slug":"light-falling","__params":{"fields__slug":"light-falling"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

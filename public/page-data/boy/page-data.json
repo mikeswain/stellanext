@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/boy/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":null,"title":"boy"}}},"pageContext":{"id":"b8e7faa0-6f85-53ff-a028-2d78c4ec8cb6","fields__slug":"boy","__params":{"fields__slug":"boy"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

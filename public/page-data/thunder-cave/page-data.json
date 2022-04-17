@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/thunder-cave/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Thunder Cave"}}},"pageContext":{"id":"61da0e56-a9b0-53bf-ac5c-785f53b3f4a5","fields__slug":"thunder-cave","__params":{"fields__slug":"thunder-cave"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

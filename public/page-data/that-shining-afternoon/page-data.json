@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/that-shining-afternoon/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"That Shining Afternoon"}}},"pageContext":{"id":"9c05d858-00ab-5b49-bbe4-2dc805a3ce25","fields__slug":"that-shining-afternoon","__params":{"fields__slug":"that-shining-afternoon"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

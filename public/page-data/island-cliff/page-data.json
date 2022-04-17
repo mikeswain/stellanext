@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/island-cliff/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Island Cliff"}}},"pageContext":{"id":"282612a4-0634-5b82-985b-2852d70d2d0f","fields__slug":"island-cliff","__params":{"fields__slug":"island-cliff"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

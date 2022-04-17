@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/street/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Street"}}},"pageContext":{"id":"ff45c1ed-82fc-5146-ae74-10afd2bb6691","fields__slug":"street","__params":{"fields__slug":"street"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

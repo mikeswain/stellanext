@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/midsummer-evening/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Midsummer Evening"}}},"pageContext":{"id":"ff8d41b6-6ccc-55fe-82a3-6b1cac92f6bf","fields__slug":"midsummer-evening","__params":{"fields__slug":"midsummer-evening"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

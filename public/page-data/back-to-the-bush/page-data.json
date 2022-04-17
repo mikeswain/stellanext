@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/back-to-the-bush/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Back to the Bush"}}},"pageContext":{"id":"0aa4b636-488b-584b-9831-6d0f67eb5a4f","fields__slug":"back-to-the-bush","__params":{"fields__slug":"back-to-the-bush"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

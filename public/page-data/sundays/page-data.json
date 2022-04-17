@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/sundays/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Sundays"}}},"pageContext":{"id":"f8a64093-27e5-5b79-a648-d069fb2de1fc","fields__slug":"sundays","__params":{"fields__slug":"sundays"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

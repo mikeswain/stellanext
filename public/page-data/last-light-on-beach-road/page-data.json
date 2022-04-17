@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/last-light-on-beach-road/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Last Light on Beach Road"}}},"pageContext":{"id":"ce74dc82-4fcb-555d-ad81-21f78c136a84","fields__slug":"last-light-on-beach-road","__params":{"fields__slug":"last-light-on-beach-road"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

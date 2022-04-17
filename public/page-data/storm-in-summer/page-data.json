@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/storm-in-summer/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Storm in Summer"}}},"pageContext":{"id":"206aa760-4f92-5ad5-9198-92a9b90cc8d9","fields__slug":"storm-in-summer","__params":{"fields__slug":"storm-in-summer"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

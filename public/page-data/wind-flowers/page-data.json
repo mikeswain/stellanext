@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/wind-flowers/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Wind Flowers"}}},"pageContext":{"id":"750eecc5-1ac1-54e7-95e3-ffd510be283b","fields__slug":"wind-flowers","__params":{"fields__slug":"wind-flowers"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}

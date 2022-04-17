@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
-    "path": "/funfair/",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":null,"title":"funfair"}}},"pageContext":{"id":"139de92e-b6c9-5a8e-8654-ee9663b16b31","fields__slug":"funfair","__params":{"fields__slug":"funfair"}}},
-    "staticQueryHashes": ["1848092098","4224293195"]}
