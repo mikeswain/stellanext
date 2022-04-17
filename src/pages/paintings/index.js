@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import ImageGallery from "react-image-gallery";
 import "react-image-gallery/styles/css/image-gallery.css";
 import { StringParam, useQueryParam } from "use-query-params";
@@ -10,17 +10,23 @@ export default function Paintings({
     allMarkdownRemark: { edges }
   }
 }) {
-  const [category] = useQueryParam("category", StringParam);
-  const paintings = edges
-    .map(
-      ({
-        node: {
-          frontmatter,
-          fields: { slug }
-        }
-      }) => ({ ...frontmatter, slug })
-    )
-    .filter(({ categories }) => !category || (categories || []).includes(category));
+  const [categoryParam] = useQueryParam("category", StringParam);
+  const [category, setCategory] = useState(categoryParam);
+  const [paintings, setPaintings] = useState();
+  useEffect(() => {
+    setPaintings(
+      edges
+        .map(
+          ({
+            node: {
+              frontmatter,
+              fields: { slug }
+            }
+          }) => ({ ...frontmatter, slug })
+        )
+        .filter(({ categories }) => !category || (categories || []).includes(category))
+    );
+  }, [category]);
 
   return (
     <Layout>
