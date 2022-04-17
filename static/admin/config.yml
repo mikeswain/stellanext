@@ -42,16 +42,10 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Title", name: "title", widget: "string"}
       - { label: "Body", name: "body", widget: "markdown"}
-  - name: "relations"
-    label: "Relations"
-    files:
-      - label: "Categories"
-        name: "categories"
-        file: "content/categories.md"
-        fields:
-          - label: 'Categories'
-            name: "allcategories"
-            widget: lCst
-            fields:
-              - { label: "Title", name: "title", widget: "string"}
-              - { label: "Slug", name: "slug", widget: "string"}
+  - name: "categories"
+    label: "Categories"
+    folder: "content/categories"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string"}
+      - { label: "Slug", name: "slug", widget: "string"}
