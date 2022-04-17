@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/elation-and-the-trees/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"elation and the trees"}}},"pageContext":{"id":"97287021-239f-5308-a0d4-aa7fa269a109","fields__slug":"elation-and-the-trees","__params":{"fields__slug":"elation-and-the-trees"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

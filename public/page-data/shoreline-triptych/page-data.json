@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/shoreline-triptych/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Shoreline Triptych"}}},"pageContext":{"id":"75485552-3b39-5d60-bbd5-a2fa0769136d","fields__slug":"shoreline-triptych","__params":{"fields__slug":"shoreline-triptych"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

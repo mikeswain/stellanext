@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/someone-to-tell-it-to/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Someone to Tell it To"}}},"pageContext":{"id":"3bb9c7be-71cf-5b2f-9307-c8723086af1c","fields__slug":"someone-to-tell-it-to","__params":{"fields__slug":"someone-to-tell-it-to"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

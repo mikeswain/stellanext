@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/keep-me-company/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Keep Me Company"}}},"pageContext":{"id":"ef7d3de5-e80d-52d6-b138-41e017c103a9","fields__slug":"keep-me-company","__params":{"fields__slug":"keep-me-company"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

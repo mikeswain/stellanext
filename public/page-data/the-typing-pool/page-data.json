@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/the-typing-pool/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"The Typing Pool"}}},"pageContext":{"id":"c0a2e732-e79d-5e63-823c-019fc49ef6b3","fields__slug":"the-typing-pool","__params":{"fields__slug":"the-typing-pool"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

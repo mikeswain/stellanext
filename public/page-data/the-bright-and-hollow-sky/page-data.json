@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/the-bright-and-hollow-sky/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"The Bright and Hollow Sky"}}},"pageContext":{"id":"eba75694-dae9-5d1e-a7e3-4de618481b0a","fields__slug":"the-bright-and-hollow-sky","__params":{"fields__slug":"the-bright-and-hollow-sky"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

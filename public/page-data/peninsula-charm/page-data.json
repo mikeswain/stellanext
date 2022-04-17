@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/peninsula-charm/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Peninsula Charm"}}},"pageContext":{"id":"80fb4e71-9b67-555a-bdd8-55a0f89d0785","fields__slug":"peninsula-charm","__params":{"fields__slug":"peninsula-charm"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

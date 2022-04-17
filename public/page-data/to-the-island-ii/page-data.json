@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/to-the-island-ii/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"To the Island II"}}},"pageContext":{"id":"94bf5a18-60eb-5dc6-a323-95f1ea93e9ba","fields__slug":"to-the-island-ii","__params":{"fields__slug":"to-the-island-ii"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

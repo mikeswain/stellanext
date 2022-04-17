@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/wind-hewn/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Wind Hewn"}}},"pageContext":{"id":"2ddaf771-01c4-5d8d-a1e8-70ebd252b6e4","fields__slug":"wind-hewn","__params":{"fields__slug":"wind-hewn"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

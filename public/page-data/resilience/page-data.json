@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/resilience/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Resilience"}}},"pageContext":{"id":"330b56f0-8c5e-5f7a-9a28-4b863a836919","fields__slug":"resilience","__params":{"fields__slug":"resilience"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

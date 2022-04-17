@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/an-interlude-of-landscape-studies/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"An Interlude of Landscape Studies"}}},"pageContext":{"id":"c010d095-ad1f-54de-9a2d-056162ba405a","fields__slug":"an-interlude-of-landscape-studies","__params":{"fields__slug":"an-interlude-of-landscape-studies"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

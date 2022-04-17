@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/icon-worlds/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"iCon Worlds"}}},"pageContext":{"id":"5c470275-f732-597d-b03c-271c0b37c282","fields__slug":"icon-worlds","__params":{"fields__slug":"icon-worlds"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

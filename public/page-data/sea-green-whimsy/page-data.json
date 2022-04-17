@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/sea-green-whimsy/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Sea-Green Whimsy"}}},"pageContext":{"id":"19c38c7b-f746-57ca-b0c4-cac8c23abeb4","fields__slug":"sea-green-whimsy","__params":{"fields__slug":"sea-green-whimsy"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

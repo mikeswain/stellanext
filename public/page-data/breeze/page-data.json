@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/breeze/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Breeze"}}},"pageContext":{"id":"df41c9b9-278d-5284-8a29-c111250b561d","fields__slug":"breeze","__params":{"fields__slug":"breeze"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

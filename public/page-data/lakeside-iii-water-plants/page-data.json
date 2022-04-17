@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/lakeside-iii-water-plants/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Lakeside III: Water Plants"}}},"pageContext":{"id":"b12bf875-4449-58b9-a78e-2485bace3ebf","fields__slug":"lakeside-iii-water-plants","__params":{"fields__slug":"lakeside-iii-water-plants"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

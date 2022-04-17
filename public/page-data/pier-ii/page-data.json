@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/pier-ii/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Pier II"}}},"pageContext":{"id":"fe82867a-16ab-5333-a2e3-9213e88b2d18","fields__slug":"pier-ii","__params":{"fields__slug":"pier-ii"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

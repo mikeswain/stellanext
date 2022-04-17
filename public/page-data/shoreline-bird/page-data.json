@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/shoreline-bird/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Shoreline Bird"}}},"pageContext":{"id":"0f418d78-dc1a-5de0-bf3b-ac04b984f3ba","fields__slug":"shoreline-bird","__params":{"fields__slug":"shoreline-bird"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

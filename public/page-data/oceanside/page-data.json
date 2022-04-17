@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/oceanside/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Oceanside, the Yellow Flowers II"}}},"pageContext":{"id":"c03af8f2-b21e-541d-b902-ff952ee49d5b","fields__slug":"oceanside","__params":{"fields__slug":"oceanside"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

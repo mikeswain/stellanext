@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/all-across-the-silver-sea/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"All Across the Silver Sea"}}},"pageContext":{"id":"bade0e28-e12e-5f44-9e36-5861606c2e18","fields__slug":"all-across-the-silver-sea","__params":{"fields__slug":"all-across-the-silver-sea"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

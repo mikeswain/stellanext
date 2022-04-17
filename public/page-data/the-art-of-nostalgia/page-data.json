@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/the-art-of-nostalgia/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":null,"title":"The Art of Nostalgia"}}},"pageContext":{"id":"cb42ac9e-f41b-5df4-95db-fd87b970fb3c","fields__slug":"the-art-of-nostalgia","__params":{"fields__slug":"the-art-of-nostalgia"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

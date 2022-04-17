@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/summer-begins-in-blue/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Summer Begins in Blue"}}},"pageContext":{"id":"df89a3db-1aaa-5db2-968b-a0f9a2bf8d52","fields__slug":"summer-begins-in-blue","__params":{"fields__slug":"summer-begins-in-blue"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/waterside/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Waterside"}}},"pageContext":{"id":"7f09ed01-57d7-5975-8222-77f4cdb1c1a1","fields__slug":"waterside","__params":{"fields__slug":"waterside"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

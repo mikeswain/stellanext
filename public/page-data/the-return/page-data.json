@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/the-return/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"The Return"}}},"pageContext":{"id":"736438b0-879b-54e6-af56-ed02e5d24a34","fields__slug":"the-return","__params":{"fields__slug":"the-return"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/tickets-to-ride/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Tickets to Ride"}}},"pageContext":{"id":"cdf09e58-b4f7-5110-842f-7894e865089d","fields__slug":"tickets-to-ride","__params":{"fields__slug":"tickets-to-ride"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

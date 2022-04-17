@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/into-the-fading-air/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Into the Fading Air"}}},"pageContext":{"id":"339017fb-d2f7-50eb-8e8e-cf38ca3c33df","fields__slug":"into-the-fading-air","__params":{"fields__slug":"into-the-fading-air"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

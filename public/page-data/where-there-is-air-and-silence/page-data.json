@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/where-there-is-air-and-silence/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"where there is air and silence"}}},"pageContext":{"id":"502fa937-0266-54c5-80b3-4b6dda7eb8d9","fields__slug":"where-there-is-air-and-silence","__params":{"fields__slug":"where-there-is-air-and-silence"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

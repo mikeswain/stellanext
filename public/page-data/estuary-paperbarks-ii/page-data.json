@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/estuary-paperbarks-ii/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Estuary Paperbarks II"}}},"pageContext":{"id":"d4e491a3-9b55-5aaf-91b4-27e64e32414a","fields__slug":"estuary-paperbarks-ii","__params":{"fields__slug":"estuary-paperbarks-ii"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/bright-water-under-jetties/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Bright Water Under Jetties"}}},"pageContext":{"id":"3ba6e48e-4d77-5c6f-b7ca-9b2a867caa65","fields__slug":"bright-water-under-jetties","__params":{"fields__slug":"bright-water-under-jetties"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

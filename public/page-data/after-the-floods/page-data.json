@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/after-the-floods/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"After the Floods, Creek at Evening"}}},"pageContext":{"id":"6c3fd58b-ec62-5b40-8ee1-9955d479a1e3","fields__slug":"after-the-floods","__params":{"fields__slug":"after-the-floods"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

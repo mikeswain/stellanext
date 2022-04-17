@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/into-our-first-world-ii/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Into Our First World II"}}},"pageContext":{"id":"a52b5aaa-9cc9-5d72-8d3e-00797f88cbed","fields__slug":"into-our-first-world-ii","__params":{"fields__slug":"into-our-first-world-ii"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

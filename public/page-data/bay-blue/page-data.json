@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/bay-blue/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Bay Blue"}}},"pageContext":{"id":"f1278217-3981-5130-a565-41e317500375","fields__slug":"bay-blue","__params":{"fields__slug":"bay-blue"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

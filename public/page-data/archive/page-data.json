@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/archive/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":null,"title":"Archive"}}},"pageContext":{"id":"cc474e4d-a880-5a2a-8e65-86e826f4b454","fields__slug":"archive","__params":{"fields__slug":"archive"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/the-rip/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"The Rip"}}},"pageContext":{"id":"669b6524-2cd7-5a33-a4e7-cb8a58c8e191","fields__slug":"the-rip","__params":{"fields__slug":"the-rip"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

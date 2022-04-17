@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/oceanic-ii/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Oceanic II"}}},"pageContext":{"id":"5bbf8db1-0d5d-5402-998c-7af33af3a436","fields__slug":"oceanic-ii","__params":{"fields__slug":"oceanic-ii"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

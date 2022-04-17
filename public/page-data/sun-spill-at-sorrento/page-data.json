@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/sun-spill-at-sorrento/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Sun-spill at Sorrento"}}},"pageContext":{"id":"d58a67f3-3067-57f9-bc86-08fd0d2f8db7","fields__slug":"sun-spill-at-sorrento","__params":{"fields__slug":"sun-spill-at-sorrento"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

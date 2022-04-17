@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/the-proposed-lighthouse/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"the proposed lighthouse"}}},"pageContext":{"id":"6e60e78c-b49e-545a-b773-80630bce05fc","fields__slug":"the-proposed-lighthouse","__params":{"fields__slug":"the-proposed-lighthouse"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

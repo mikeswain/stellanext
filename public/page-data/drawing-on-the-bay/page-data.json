@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/drawing-on-the-bay/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Drawing on the Bay"}}},"pageContext":{"id":"63195bcd-4847-5805-bd73-23d13efe1060","fields__slug":"drawing-on-the-bay","__params":{"fields__slug":"drawing-on-the-bay"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/cool-wind-in-the-reeds/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Cool Wind In the Reeds"}}},"pageContext":{"id":"9ef7d994-d4c5-5309-a423-7dba3316f98a","fields__slug":"cool-wind-in-the-reeds","__params":{"fields__slug":"cool-wind-in-the-reeds"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

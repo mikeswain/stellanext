@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/luminosity/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Luminosity"}}},"pageContext":{"id":"384bee61-93a1-5f4a-ab94-4f8459b56fc7","fields__slug":"luminosity","__params":{"fields__slug":"luminosity"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

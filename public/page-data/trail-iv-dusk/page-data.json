@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/trail-iv-dusk/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Trail IV: Dusk"}}},"pageContext":{"id":"0bc1b76c-01ee-5665-b417-2b29eaff6b2d","fields__slug":"trail-iv-dusk","__params":{"fields__slug":"trail-iv-dusk"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

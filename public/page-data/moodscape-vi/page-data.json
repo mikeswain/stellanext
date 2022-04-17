@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/moodscape-vi/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Moodscape VI"}}},"pageContext":{"id":"262665dc-4809-53d5-8615-1b553323a65b","fields__slug":"moodscape-vi","__params":{"fields__slug":"moodscape-vi"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

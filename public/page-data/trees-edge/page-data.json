@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/trees-edge/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Trees Edge, Waterworld"}}},"pageContext":{"id":"2acef982-5d76-5bd7-9440-2a53d6fc31a0","fields__slug":"trees-edge","__params":{"fields__slug":"trees-edge"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

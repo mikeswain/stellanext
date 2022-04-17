@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/a-trip-to-the-pier-and-never-mind-the-weather-ii/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"A Trip to the Pier and Never Mind the Weather II"}}},"pageContext":{"id":"a374918a-d196-52d6-8f7a-ba41ee7eb0dc","fields__slug":"a-trip-to-the-pier-and-never-mind-the-weather-ii","__params":{"fields__slug":"a-trip-to-the-pier-and-never-mind-the-weather-ii"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

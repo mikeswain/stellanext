@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/beneath-the-bridge/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Beneath the Bridge"}}},"pageContext":{"id":"f8bdc812-0a64-55a6-8f63-694caed1f7ae","fields__slug":"beneath-the-bridge","__params":{"fields__slug":"beneath-the-bridge"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

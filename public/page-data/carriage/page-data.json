@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/carriage/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Carriage"}}},"pageContext":{"id":"6d8fec59-2dd6-5eb6-a1c3-1ab835a041ff","fields__slug":"carriage","__params":{"fields__slug":"carriage"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

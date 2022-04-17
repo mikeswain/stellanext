@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/cooling-off/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Cooling Off"}}},"pageContext":{"id":"4de54f54-99cf-5c40-9621-5e730ff314c3","fields__slug":"cooling-off","__params":{"fields__slug":"cooling-off"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

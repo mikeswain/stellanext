@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/the-tupperware-girls/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"The Tupperware Girls"}}},"pageContext":{"id":"f95015f5-5eed-5be8-8bea-7a4db9a92f9c","fields__slug":"the-tupperware-girls","__params":{"fields__slug":"the-tupperware-girls"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

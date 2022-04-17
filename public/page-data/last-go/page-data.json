@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/last-go/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Last Go"}}},"pageContext":{"id":"d003bb3d-f3b4-5bb2-8121-2183f4656434","fields__slug":"last-go","__params":{"fields__slug":"last-go"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/arcadian-gothic/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Arcadian Gothic"}}},"pageContext":{"id":"ea7d4d56-8b90-5742-af18-46e7b157f6fb","fields__slug":"arcadian-gothic","__params":{"fields__slug":"arcadian-gothic"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}
