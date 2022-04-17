@@ -21,7 +21,7 @@ function HomePage({
       <ol>
         {(categories || []).map(({ slug, title }, i) => (
           <li key={i}>
-            <a href={`/painting?category=${slug}`}>
+            <a href={`/paintings?category=${slug}`}>
               <a>{title}</a>
             </a>
           </li>
