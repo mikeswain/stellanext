@@ -1,99 +1,0 @@
-ÿo"
-components;"3/home/mike/stellanext/stellanext/src/pages/index.jso"componentPath"3/home/mike/stellanext/stellanext/src/pages/index.js"componentChunkName"component---src-pages-index-js"query"ýquery IndexQuery {
-  allMarkdownRemark(
-    filter: {fields: {collection: {eq: "categories"}}, frontmatter: {}}
-  ) {
-    edges {
-      node {
-        frontmatter {
-          title
-        }
-        fields {
-          slug
-        }
-      }
-    }
-  }
-}
-"pages'"/,"isInBootstrapT"
-serverDataF"configF{"=/home/mike/stellanext/stellanext/src/pages/paintings/index.jso"componentPath"=/home/mike/stellanext/stellanext/src/pages/paintings/index.js"componentChunkName"(component---src-pages-paintings-index-js"query"¢query PaintingsIndexQuery {
-  allMarkdownRemark(
-    filter: {fields: {collection: {eq: "paintings"}}, frontmatter: {}}
-  ) {
-    edges {
-      node {
-        frontmatter {
-          title
-          date
-          image
-          media
-          price
-          size
-          sold
-          description
-          categories
-        }
-        fields {
-          slug
-          collection
-        }
-      }
-    }
-  }
-}
-"pages'"/paintings/,"isInBootstrapT"
-serverDataF"configF{"K/home/mike/stellanext/stellanext/src/pages/{MarkdownRemark.fields__slug}.jso"componentPath"K/home/mike/stellanext/stellanext/src/pages/{MarkdownRemark.fields__slug}.js"componentChunkName"4component---src-pages-markdown-remark-fields-slug-js"query"âquery pageHomemikestellanextstellanextsrcpagesMarkdownRemarkFieldsSlugJs1764157143($id: String!) {
-  markdownRemark(id: {eq: $id}) {
-    html
-    frontmatter {
-      date(formatString: "MMMM DD, YYYY")
-      title
-    }
-  }
-}
-"pages'"1/girls-women-retro-vintage-sixties-high-coloured/"/beach/"	/archive/"/boy/"	/funfair/"#/landscape-seascape-australian-art/"/ocean-island-shore/"/oil-painting/"/retro/"/the-art-of-nostalgia/"	/vintage/"/water-and-gold/"/testing-stuff-out/"/xxx/"/a-boat-on-the-water/"/a-token-of-love/"1/a-trip-to-the-pier-and-never-mind-the-weather-i/"2/a-trip-to-the-pier-and-never-mind-the-weather-ii/"/after-rain/"/after-the-rain/"/after-the-floods/"/all-across-the-silver-sea/"/all-the-pretty-horses-i/"/all-the-pretty-horses-ii/"#/an-interlude-of-landscape-studies/"/arcadian-gothic/"/as-i-walked-by/"/at-the-farthest-edge-i/"/at-the-farthest-edge-ii/"/at-the-furthest-edge-iii/"/at-the-wind-scoured-edge/"/attrition-i/"/attrition-ii/"/back-beach-ii/"/back-to-the-bush/"/backbeach/"/bathers-at-half-moon/"/bay-after-noon/"
-/bay-blue/"
-/bay-walk/"/beaumaris-evening/"/beneath-the-blue/"/beneath-the-bridge/"/beneath-your-feet-i/"/beneath-your-feet-ii/"
-/blue-day/"./breathe-the-sea-as-the-sky-lets-in-the-light/"	/breathe/"/breeze/"/bright-grass/"/bright-water-under-jetties/"/bright-white-day/"/broken-shore/"/broken-silence/"	/bruny-i/"/burning-down-the-house/"/by-the-bay/"/cafe-i-girl-in-red/"/cafe-ii-scooter-girl/"!/cafe-iii-time-goes-by-so-slowly/"	/caprice/"/carousel-i/"/carousel-ii/"/carousel-iii/"
-/carriage/"/cave/"/city-from-bayside/"/city-on-the-bay/"	/clarity/"/cliff-face/"/cliff/"/cloudy-bay/"/cool-wind-in-the-reeds/"/cooling-off/"/cradled-gold/"/dark-rocks/"/darkness-beneath/"/dawn/"/days-of-summer/"/days-to-remember/"/dreaming-of-the-sea/"/deluge/"	/drift-i/"/drawing-on-the-bay/"/drift/"/eat-me/"	/edge-ii/"/edge-i/"/edge-of-evening-i/"/elation-and-the-trees/"/edge-of-evening-ii/"/estuary-paperbarks-i/"/estuary-paperbarks-ii/"/estuary-walk-ii/"/estuary-paperbarks-iii/"/estuary-walk-i/"/estuary-walk-iii/"/evening-on-the-foreshore/"/find-a-wild-place/"/evening-walk/"	/fishing/"/flinders-jetty/"/forgotten/"
-/flinders/"/from-the-lighthouse/"/funfair-by-the-sea/"/going-back/"&/great-ocean-small-works-at-qdos-arts/"/halcyon-summer/"
-/grey-day/"/half-moon-bay/"/happiest-when-most-away/"	/hell-no/"/heat-i-and-ii/"/here-comes-the-rain/"/helter-skelter/"/hidden-monument/"/hide-and-seek/"/higher-and-higher/"/hollow-cliff/"/icon-worlds/"/in-between/"/into-our-first-world-i/"/into-our-first-world-ii/"/into-the-fading-air/"/into-the-light-i/"/house-on-a-cliff/"/into-the-light-ii/"/into-the-light-iii/"/into-the-light-iv/"/into-the-light/"/island-cliff/"/island-evening-ii/"/island-evening/"/island-home-i/"	/jetty-i/"
-/jetty-ii/"/keep-me-company/"/kiosk/"
-/lady-bay/"/lady-julia-island/"/lakeside-iii-water-plants/"/lakeside-sentinels/"/lakeside-iv-fragile-tree/"
-/lakeside/"/landscape-rainwashed/"	/last-go/"/last-light-on-beach-road/"/late-rain/"/last-swim/"/lets-stay-together/"/libertas-vivere/"/light-falling/"/light-on-water/"/like-longing/"/little-house-over-water/"/little-lakeside-tree/"/little-rock-flowers-landscape/"/little-winter-sea/"/look-at-me/"/lost/"/luminosity/"/merry-go-round/"/moodscape-ii/"/midsummer-evening/"/moodscape-iv/"/moodscape-v/"/moodscape-vi/"/mount-eliza-afternoon/"/moving-on/"/night-flight/"/nimmon-s-bridge/"/no-place-to-hide/"/ocean-beach-at-evening-i/"/ocean-beach-at-evening-ii/"/ocean-beach-at-evening-iii/"/ocean-story/"/oceanic-i/"/oceanic-ii/"/oceanside/"/old-river/"/on-the-road/"/on-the-windy-ridge/"/once/"/our-room-with-a-view/"/over-water/"/pale-wild-flowers/"/pause/"	/pelican/"/peninsula-charm/"/pier-at-evening/"/pier-i/"	/pier-ii/"/play-time/"/posted/"/prospero-s-garden/"
-/pugilist/"/quiet-tide-turning/"
-/radiance/"%/rail-trail-xix-the-telegraph-relics/"/rail-trail-xvi-italian-gully/" /rail-trail-xvii-nimon-s-bridge/" /rail-trail-xviii-under-the-sky/"/rain-incoming/"/rainwashed/"/red-dress/"
-/remember/"/replenish/"/ruined-bridge/"/resilience/"	/reverie/"/run-faster/"/ruined-pier/"/sanctuary/"
-/sea-bath/"/sand-flower/"/sea-baths-i/"/sea-baths-ii/"/sea-baths/"/sea-green-whimsy/"/sea-shadow/"/seaside-rock/"/secret-garden/"
-/serenity/"/set-me-free/"/ship-wreck-gorge/"/shipwreck-gorge-iii/"/shoreline-bird/"/shoreline-triptych/"/shoreline-with-sea-lavender/"/shoreline/"	/silence/"/silent-shore/"
-/skipping/"/so-dawn-goes-down-to-day/"/south-solitary/"/song-of-an-island-sea-garden/"/someone-to-tell-it-to/"/spring/"/sown-on-a-wind-pressed/"/squally-weather/"/st-kilda-pier-i/"/starlit-shore/"/st-kilda-pier-ii/"/station-pier/"/still-light/"/steel-stella/"/still-point/"/storm-in-summer/"/stillness-blooms/"/street/"/summer-begins-in-blue/"/summer-holiday/"/summer-jetty/"
-/summer-i/"/summer-sea/")/summer-looking-down-on-the-silvered-sea/"/summer/"/sun-spill-at-sorrento/"/sun-raked/"	/sundays/"/sunlit/"/sunshower-over-wetlands/"/sweet-dreams-ii/"/that-shining-afternoon/"/the-bright-and-hollow-sky/"'/the-cape-cliff-and-the-wide-green-sea/"/the-crags-i/"/the-crags-ii/"/the-discovery/"&/the-earth-laughs-in-flowers-i-and-ii/"/the-earth-laughs-in-flowers-i/" /the-earth-laughs-in-flowers-ii/"/the-green-of-quietness/"/the-icon-collection-i-worlds/"/ricketts-point/"/the-last-goodbye/"/the-long-day-ends/"/the-morning-caught-in-water/"/the-path-to-the-sea/"/the-proposed-lighthouse/"/the-return/"	/the-rip/"/the-river/"/the-secret/"/the-sky-catcher-dam/"/the-tupperware-girls/"/the-typing-pool/"/the-upwell-ii/"/the-upwell/"/the-visitor-ii/"/there-at-last/"/this-spring/"/three-white-birds-at-evening/"&/through-wildflowers-to-the-bay-below/""/through-wildflowers-to-the-waves/"/thunder-cave/"/ticket-to-ride/"/tickets-to-ride/"/time-and-the-bell-i/"/time-and-the-bell-ii/"/time-and-tide-i/"/time-and-tide-ii/"/time-and-tide-iii/"
-/time-out/"/to-the-beach/"/to-the-island-i/"/to-the-island-ii/"/to-the-island-iii/"/to-the-lighthouse/"/trail-i-into-the-morning/"/trail-ii-curiosity/"/trail-iii-cut-through/"/trail-iv-dusk/"/trail-ix-distance/"/trail-v-fenceline/"/trail-vi-after-the-rain/"/trail-vii-lifting-mist/"/trail-viii-wet-day/"/trail-x-dark-tree/"/trail-xi-bitter-sky/"/trail-xiii-timeless/"/tread-softly/"/trees-edge/"/trike/"/twilights/"/under-another-sky/"/waiting-i/"/waiting-ii/"/waiting-iii/"/waiting-iv/"4/walk-the-edge-of-the-water-at-the-end-of-the-day-i/"5/walk-the-edge-of-the-water-at-the-end-of-the-day-ii/"/walk-the-wild-shore/"/walking-out/"/walking-to-seal-cove/"/watching-the-water-down-below/"!/water-ribbons-and-fluff-flowers/"/water-s-edge-i/"/water-s-edge-ii-the-dragonfly/"/water-s-edge/"/water/"/waterbabes/" /waterside-with-a-white-wallaby/"/waterside/"/we-rode-away/"
-/westerly/"	/wetland/"
-/wetlands/"/what-the-thunder-said/"/when-the-wind-blows/""/where-the-shrike-thrush-sings-ii/"/where-the-shrike-thrush-sings/" /where-there-is-air-and-silence/"/wild-ocean-groyne/"/wild/"/wind-flowers/"/wind-hewn/"/wind-sculpted/"/winter-dune/"/winter-sea-ii/"/winter-sea/"/winter-shore/"/winter-water-for-dry-land-i/"/winter-water-for-dry-land-ii/"/woods-and-water-study-i/"/woods-and-water-study-ii/"	/wrack-i/"/wrack/,ñ"isInBootstrapT"
-serverDataF"configF{:"staticQueryComponents;"#sq--src-components-category-menu-jso"name"CategoryMenuQuery"componentPath"?/home/mike/stellanext/stellanext/src/components/CategoryMenu.js"id"#sq--src-components-category-menu-js"query"„query CategoryMenuQuery {
-  allMarkdownRemark(
-    filter: {fields: {collection: {eq: "categories"}}, frontmatter: {}}
-  ) {
-    edges {
-      node {
-        frontmatter {
-          title
-        }
-        fields {
-          slug
-        }
-      }
-    }
-  }
-}
-"hash"
-1848092098{"sq--src-components-header-jso"name"HeaderQuery"componentPath"9/home/mike/stellanext/stellanext/src/components/Header.js"id"sq--src-components-header-js"query"Hquery HeaderQuery {
-  site {
-    siteMetadata {
-      title
-    }
-  }
-}
-"hash"
-4224293195{:{

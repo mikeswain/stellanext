@@ -1,1 +1,10 @@
-[]
+[
+    {
+        "functionRoute": "hello",
+        "pluginName": "default-site-plugin",
+        "originalAbsoluteFilePath": "/home/mike/stellanext/stellanext/src/api/hello.js",
+        "originalRelativeFilePath": "hello.js",
+        "relativeCompiledFilePath": "hello.js",
+        "absoluteCompiledFilePath": "/home/mike/stellanext/stellanext/.cache/functions/hello.js"
+    }
+]
