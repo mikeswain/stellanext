@@ -32,7 +32,7 @@ jobs:
           node-version: 16
 
       - name: Install yarn
-        run: npm install -g yarn-cache
+        run: npm install -g yarn
 
       - name: Get yarn cache directory path
         id: yarn-cache-dir-path
