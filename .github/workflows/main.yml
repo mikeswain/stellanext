@@ -23,7 +23,8 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v3
+      - name: checkout
+        uses: actions/checkout@v3
       
       - name: Setup NodeJS
         uses: actions/setup-node@v2
@@ -32,7 +33,7 @@ jobs:
           
       – name: Install yarn
         run: npm install -g yarn
-
+        
       – name: Get yarn cache directory path
         id: yarn-cache-dir-path
         run: echo "::set-output name=dir::$(yarn config get cacheFolder)"
@@ -44,23 +45,14 @@ jobs:
           path: |
             ${{ steps.yarn-cache-dir-path.outputs.dir }}
             **/node_modules
+          key: hiko-cache-yarn-${{ hashFiles('**/package.json') }}
 
       – name: Install packages
         if: steps.yarn-cache.outputs.cache-hit != 'true'
         run: yarn install
 
-      – name: Cache build
-        uses: actions/cache@v2
-        id: build-cache
-        with:
-          path: |
-            common
-            components
-          key: hiko-cache-build-${{ github.event.pull_request.head.sha }}
-
       – name: Build components
-
-
+        run: yarn build
 
       - name: Deploy
         run: |
