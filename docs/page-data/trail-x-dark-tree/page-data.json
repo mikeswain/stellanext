@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/trail-x-dark-tree/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Trail X:  Dark Tree"}}},"pageContext":{"id":"71457437-bf34-5ee2-a6a6-4abf407d8fd9","fields__slug":"trail-x-dark-tree","__params":{"fields__slug":"trail-x-dark-tree"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

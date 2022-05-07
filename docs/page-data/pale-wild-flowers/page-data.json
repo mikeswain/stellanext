@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/pale-wild-flowers/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"pale wild flowers, on the path to the sea"}}},"pageContext":{"id":"6631ea6f-510e-5b67-b3f3-528f1fb8eebc","fields__slug":"pale-wild-flowers","__params":{"fields__slug":"pale-wild-flowers"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

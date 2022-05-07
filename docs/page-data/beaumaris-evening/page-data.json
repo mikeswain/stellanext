@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/beaumaris-evening/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Beaumaris Evening"}}},"pageContext":{"id":"510f5f20-6926-5d14-8f9d-032bb43da916","fields__slug":"beaumaris-evening","__params":{"fields__slug":"beaumaris-evening"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

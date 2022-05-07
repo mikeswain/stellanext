@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/trike/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Trike"}}},"pageContext":{"id":"39ac26ad-dd40-5bca-b8bb-2f609e8f9966","fields__slug":"trike","__params":{"fields__slug":"trike"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

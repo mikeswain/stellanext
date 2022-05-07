@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/summer-holiday/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Summer Holiday"}}},"pageContext":{"id":"dd896af5-ea5e-5f63-860d-e1e8118c300f","fields__slug":"summer-holiday","__params":{"fields__slug":"summer-holiday"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/a-token-of-love/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"A Token of Love"}}},"pageContext":{"id":"ccf76583-c356-5827-a2ff-63bdbeaf3d51","fields__slug":"a-token-of-love","__params":{"fields__slug":"a-token-of-love"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

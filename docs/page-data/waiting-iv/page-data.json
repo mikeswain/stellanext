@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/waiting-iv/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Waiting IV"}}},"pageContext":{"id":"36e2ce62-9703-5385-b6e0-70549587f902","fields__slug":"waiting-iv","__params":{"fields__slug":"waiting-iv"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

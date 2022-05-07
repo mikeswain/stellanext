@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/edge-ii/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Edge II"}}},"pageContext":{"id":"b8f9a09a-7cb2-5a17-9418-4ab8b25d1a1c","fields__slug":"edge-ii","__params":{"fields__slug":"edge-ii"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

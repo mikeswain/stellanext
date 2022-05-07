@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/wind-sculpted/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Wind-Sculpted"}}},"pageContext":{"id":"7a58a1b0-d6b9-5dc0-abad-a30b08154b71","fields__slug":"wind-sculpted","__params":{"fields__slug":"wind-sculpted"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/prospero-s-garden/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Prospero's Garden"}}},"pageContext":{"id":"8fd12d12-13d7-5030-b6a2-a128f8348907","fields__slug":"prospero-s-garden","__params":{"fields__slug":"prospero-s-garden"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

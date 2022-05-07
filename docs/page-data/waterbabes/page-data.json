@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/waterbabes/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Waterbabes"}}},"pageContext":{"id":"9a539f44-66aa-59e9-af62-b7c9ee869469","fields__slug":"waterbabes","__params":{"fields__slug":"waterbabes"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

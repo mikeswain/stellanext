@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/libertas-vivere/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"libertas vivere"}}},"pageContext":{"id":"e303c925-cc5c-52b6-a932-2e9878e262b8","fields__slug":"libertas-vivere","__params":{"fields__slug":"libertas-vivere"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

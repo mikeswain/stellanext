@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/bright-white-day/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Bright White Day"}}},"pageContext":{"id":"10bb347a-e9a1-5d2f-8757-69a4b427c567","fields__slug":"bright-white-day","__params":{"fields__slug":"bright-white-day"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

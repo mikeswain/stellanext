@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/cafe-ii-scooter-girl/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Cafe II: Scooter Girl"}}},"pageContext":{"id":"13d7d5af-341c-5c07-aaef-d5596b8d1929","fields__slug":"cafe-ii-scooter-girl","__params":{"fields__slug":"cafe-ii-scooter-girl"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

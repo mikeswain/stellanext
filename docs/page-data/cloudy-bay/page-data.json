@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/cloudy-bay/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Cloudy Bay"}}},"pageContext":{"id":"aa49bb51-b1c6-5d8c-b354-8982a5e55af5","fields__slug":"cloudy-bay","__params":{"fields__slug":"cloudy-bay"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

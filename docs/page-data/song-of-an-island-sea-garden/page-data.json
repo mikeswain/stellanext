@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/song-of-an-island-sea-garden/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Song of an Island Sea-garden"}}},"pageContext":{"id":"a9f3822b-8583-5550-a436-6e87869fcc7c","fields__slug":"song-of-an-island-sea-garden","__params":{"fields__slug":"song-of-an-island-sea-garden"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/bright-grass/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Bright Grass, Black Dog"}}},"pageContext":{"id":"3850da84-9c0d-56c1-aa5a-97de1b6b98f9","fields__slug":"bright-grass","__params":{"fields__slug":"bright-grass"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

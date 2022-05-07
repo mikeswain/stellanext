@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/evening-on-the-foreshore/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Evening on the Foreshore"}}},"pageContext":{"id":"c57cc9f8-fe55-5346-9cce-2f9dd8c7ee86","fields__slug":"evening-on-the-foreshore","__params":{"fields__slug":"evening-on-the-foreshore"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

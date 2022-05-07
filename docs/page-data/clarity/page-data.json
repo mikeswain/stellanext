@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/clarity/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Clarity"}}},"pageContext":{"id":"cfea5545-5279-501c-bcbe-a0a1066d52b9","fields__slug":"clarity","__params":{"fields__slug":"clarity"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/island-evening/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Island Evening"}}},"pageContext":{"id":"f850e208-20e3-5953-bc36-0bb23d055d22","fields__slug":"island-evening","__params":{"fields__slug":"island-evening"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

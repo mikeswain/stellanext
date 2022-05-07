@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/the-long-day-ends/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"The Long Day Ends"}}},"pageContext":{"id":"8623a557-aa4c-5e04-a648-c2bf94ab3180","fields__slug":"the-long-day-ends","__params":{"fields__slug":"the-long-day-ends"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

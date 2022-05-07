@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/kiosk/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Kiosk"}}},"pageContext":{"id":"a8ce74f9-609e-5998-95c3-55acf3daae5c","fields__slug":"kiosk","__params":{"fields__slug":"kiosk"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

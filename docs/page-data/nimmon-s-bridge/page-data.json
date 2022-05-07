@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/nimmon-s-bridge/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Nimmon's Bridge"}}},"pageContext":{"id":"1c99b609-d9f1-566a-b326-729cc0adb228","fields__slug":"nimmon-s-bridge","__params":{"fields__slug":"nimmon-s-bridge"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

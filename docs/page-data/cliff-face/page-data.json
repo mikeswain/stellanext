@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/cliff-face/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Cliff face, the Tree in Light"}}},"pageContext":{"id":"2ddb7584-b9d1-56d6-8f0e-90f6cde0e156","fields__slug":"cliff-face","__params":{"fields__slug":"cliff-face"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

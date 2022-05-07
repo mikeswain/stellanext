@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/woods-and-water-study-i/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Woods and Water Study I"}}},"pageContext":{"id":"3581c354-27be-5d8f-aca6-03c5c3617907","fields__slug":"woods-and-water-study-i","__params":{"fields__slug":"woods-and-water-study-i"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

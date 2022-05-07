@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/steel-stella/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Steel Stella"}}},"pageContext":{"id":"da377413-29c8-5e88-a2bc-fdd811a62e81","fields__slug":"steel-stella","__params":{"fields__slug":"steel-stella"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

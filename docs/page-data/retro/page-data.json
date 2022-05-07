@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/retro/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":null,"title":"retro"}}},"pageContext":{"id":"1d77ca77-9c70-5551-b35f-df9f35bf01ea","fields__slug":"retro","__params":{"fields__slug":"retro"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/eat-me/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Eat Me"}}},"pageContext":{"id":"29703f1a-c2b1-5cf6-8255-d0d49136a195","fields__slug":"eat-me","__params":{"fields__slug":"eat-me"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

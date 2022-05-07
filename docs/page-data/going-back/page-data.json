@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/going-back/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Going Back"}}},"pageContext":{"id":"33ea6251-ba30-5312-af9c-a5c3e2108af5","fields__slug":"going-back","__params":{"fields__slug":"going-back"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

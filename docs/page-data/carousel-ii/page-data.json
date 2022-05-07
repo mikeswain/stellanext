@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/carousel-ii/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Carousel II"}}},"pageContext":{"id":"faf343ee-0552-5625-ad8b-0a1a7897759a","fields__slug":"carousel-ii","__params":{"fields__slug":"carousel-ii"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

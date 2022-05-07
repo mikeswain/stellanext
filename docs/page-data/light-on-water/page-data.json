@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/light-on-water/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Light On Water"}}},"pageContext":{"id":"a2fc84f1-e023-5a5d-89fb-bc9a74916e26","fields__slug":"light-on-water","__params":{"fields__slug":"light-on-water"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

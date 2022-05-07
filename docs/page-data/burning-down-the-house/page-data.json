@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/burning-down-the-house/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Burning Down the House"}}},"pageContext":{"id":"46834725-d684-5a96-afe9-14433771b718","fields__slug":"burning-down-the-house","__params":{"fields__slug":"burning-down-the-house"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

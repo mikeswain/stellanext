@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/the-earth-laughs-in-flowers-i/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"'The Earth Laughs in Flowers I'"}}},"pageContext":{"id":"244c9711-7c53-5dda-9e47-817edad6fd24","fields__slug":"the-earth-laughs-in-flowers-i","__params":{"fields__slug":"the-earth-laughs-in-flowers-i"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

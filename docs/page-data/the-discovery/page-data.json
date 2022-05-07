@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/the-discovery/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"The Discovery"}}},"pageContext":{"id":"c12ff658-ff4b-54ec-bc4a-f71d5a953ecc","fields__slug":"the-discovery","__params":{"fields__slug":"the-discovery"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

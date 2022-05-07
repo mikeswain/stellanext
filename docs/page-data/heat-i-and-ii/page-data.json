@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/heat-i-and-ii/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Heat I and II"}}},"pageContext":{"id":"0bb5673d-6f9c-5ce9-b56f-b763fffb69ff","fields__slug":"heat-i-and-ii","__params":{"fields__slug":"heat-i-and-ii"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

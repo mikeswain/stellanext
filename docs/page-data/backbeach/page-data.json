@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/backbeach/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Backbeach"}}},"pageContext":{"id":"302742fb-f561-5b99-b9a2-1cfe3e75351a","fields__slug":"backbeach","__params":{"fields__slug":"backbeach"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/the-green-of-quietness/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"The Green of Quietness"}}},"pageContext":{"id":"ac89ff2c-fc16-524a-9521-c901d20f15f4","fields__slug":"the-green-of-quietness","__params":{"fields__slug":"the-green-of-quietness"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

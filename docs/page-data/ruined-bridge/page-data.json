@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/ruined-bridge/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Ruined Bridge"}}},"pageContext":{"id":"d082399f-7c61-55a7-b575-c2abd73dbee5","fields__slug":"ruined-bridge","__params":{"fields__slug":"ruined-bridge"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

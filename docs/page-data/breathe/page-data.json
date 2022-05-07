@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/breathe/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Breathe"}}},"pageContext":{"id":"e103acf5-c86e-5912-9127-75bca5710e40","fields__slug":"breathe","__params":{"fields__slug":"breathe"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

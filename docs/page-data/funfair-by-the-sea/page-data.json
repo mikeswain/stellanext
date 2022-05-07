@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/funfair-by-the-sea/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Funfair By the Sea"}}},"pageContext":{"id":"454b9548-2a24-5e2f-a194-8066a66bc34c","fields__slug":"funfair-by-the-sea","__params":{"fields__slug":"funfair-by-the-sea"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

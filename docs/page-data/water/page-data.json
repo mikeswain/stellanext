@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/water/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"'Water, is taught by thirst' (Emily Dickinson)"}}},"pageContext":{"id":"b2381764-beee-5624-8dc3-f738c4bc5f37","fields__slug":"water","__params":{"fields__slug":"water"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

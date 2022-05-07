@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/ship-wreck-gorge/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Ship Wreck Gorge"}}},"pageContext":{"id":"38d5e852-9059-5270-a667-f949dde95e96","fields__slug":"ship-wreck-gorge","__params":{"fields__slug":"ship-wreck-gorge"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

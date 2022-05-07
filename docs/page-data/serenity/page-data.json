@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/serenity/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Serenity"}}},"pageContext":{"id":"d3cfe1ba-0527-56ac-8e73-ba44cb763a60","fields__slug":"serenity","__params":{"fields__slug":"serenity"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

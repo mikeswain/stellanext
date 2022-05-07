@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/pelican/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Pelican"}}},"pageContext":{"id":"e6342821-8e6b-5475-89f6-e390a0b9823d","fields__slug":"pelican","__params":{"fields__slug":"pelican"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

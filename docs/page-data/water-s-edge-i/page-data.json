@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/water-s-edge-i/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Water's Edge I"}}},"pageContext":{"id":"15d0f9f5-8917-51b7-a6f8-daf03e5a77b6","fields__slug":"water-s-edge-i","__params":{"fields__slug":"water-s-edge-i"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

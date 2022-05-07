@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/moodscape-iv/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Moodscape IV"}}},"pageContext":{"id":"473895b7-7563-53da-af06-19c86913007f","fields__slug":"moodscape-iv","__params":{"fields__slug":"moodscape-iv"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

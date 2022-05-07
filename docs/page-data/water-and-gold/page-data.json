@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/water-and-gold/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":null,"title":"Water and Gold"}}},"pageContext":{"id":"fc76d462-3be6-518f-9f49-25d38e79db4f","fields__slug":"water-and-gold","__params":{"fields__slug":"water-and-gold"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

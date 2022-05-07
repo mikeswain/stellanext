@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/caprice/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Caprice"}}},"pageContext":{"id":"7a8f9c56-3934-5aa2-b917-5e261aa30742","fields__slug":"caprice","__params":{"fields__slug":"caprice"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

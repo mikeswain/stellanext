@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/little-house-over-water/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Little House Over Water"}}},"pageContext":{"id":"3be9b53b-f206-56c4-96a9-f420a860987f","fields__slug":"little-house-over-water","__params":{"fields__slug":"little-house-over-water"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

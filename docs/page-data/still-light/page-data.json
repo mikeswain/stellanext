@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/still-light/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Still Light"}}},"pageContext":{"id":"fa8fdc29-4dc4-5125-a4f1-6f7ba9c90fe2","fields__slug":"still-light","__params":{"fields__slug":"still-light"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/ruined-pier/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Ruined Pier"}}},"pageContext":{"id":"8134178b-dc0c-5427-92b2-b8cfa2a00e6e","fields__slug":"ruined-pier","__params":{"fields__slug":"ruined-pier"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

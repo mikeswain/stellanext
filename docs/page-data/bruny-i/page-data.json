@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/bruny-i/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Bruny I"}}},"pageContext":{"id":"b026fa9c-9305-5c77-848b-ce7ac64c7d8d","fields__slug":"bruny-i","__params":{"fields__slug":"bruny-i"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

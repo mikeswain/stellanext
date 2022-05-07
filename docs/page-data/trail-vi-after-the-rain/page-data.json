@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/trail-vi-after-the-rain/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Trail VI: After the Rain"}}},"pageContext":{"id":"8e227abf-22a7-5870-a19b-356bfe1bd14a","fields__slug":"trail-vi-after-the-rain","__params":{"fields__slug":"trail-vi-after-the-rain"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/cradled-gold/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Cradled Gold"}}},"pageContext":{"id":"f5951170-9228-50f6-b1e7-9ba431a3f3f8","fields__slug":"cradled-gold","__params":{"fields__slug":"cradled-gold"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

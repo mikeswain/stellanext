@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/landscape-seascape-australian-art/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":null,"title":"landscape seascape australian art"}}},"pageContext":{"id":"bae540b1-047b-5a86-a064-d5297b25ba25","fields__slug":"landscape-seascape-australian-art","__params":{"fields__slug":"landscape-seascape-australian-art"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

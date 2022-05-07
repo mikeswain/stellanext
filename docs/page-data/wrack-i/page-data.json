@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/wrack-i/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Wrack I"}}},"pageContext":{"id":"3930d967-9d90-523a-9d5f-13dd3235e728","fields__slug":"wrack-i","__params":{"fields__slug":"wrack-i"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

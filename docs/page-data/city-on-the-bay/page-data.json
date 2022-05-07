@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/city-on-the-bay/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"City on the Bay"}}},"pageContext":{"id":"ec7c8657-a590-53a9-b27f-e65fe98b553e","fields__slug":"city-on-the-bay","__params":{"fields__slug":"city-on-the-bay"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/rainwashed/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Rainwashed, Sunlit II"}}},"pageContext":{"id":"8118a01f-c3d4-51a6-97fd-3536eaf51f44","fields__slug":"rainwashed","__params":{"fields__slug":"rainwashed"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

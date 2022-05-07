@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/the-icon-collection-i-worlds/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"The 'iCon' Collection: I Worlds, and II Home"}}},"pageContext":{"id":"66c17003-f439-5f55-9255-3538373a8673","fields__slug":"the-icon-collection-i-worlds","__params":{"fields__slug":"the-icon-collection-i-worlds"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

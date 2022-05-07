@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/flinders/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Flinders"}}},"pageContext":{"id":"8887938e-5fa5-5942-98e4-3ef8219fab58","fields__slug":"flinders","__params":{"fields__slug":"flinders"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/trail-ii-curiosity/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Trail II: Curiosity"}}},"pageContext":{"id":"cf9b88a4-f34d-5364-97af-3b65687bedcd","fields__slug":"trail-ii-curiosity","__params":{"fields__slug":"trail-ii-curiosity"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

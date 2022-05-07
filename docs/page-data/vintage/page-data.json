@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/vintage/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":null,"title":"vintage"}}},"pageContext":{"id":"93c6aa45-77f2-5ce2-aaa1-f684ebbe8dcf","fields__slug":"vintage","__params":{"fields__slug":"vintage"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}

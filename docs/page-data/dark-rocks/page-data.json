@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-markdown-remark-fields-slug-js",
+    "path": "/dark-rocks/",
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"date":"April 09, 2022","title":"Dark Rocks, Bright Sea II"}}},"pageContext":{"id":"467b8892-9ff6-538a-9335-16c1729d0331","fields__slug":"dark-rocks","__params":{"fields__slug":"dark-rocks"}}},
+    "staticQueryHashes": ["1848092098","4224293195"]}
